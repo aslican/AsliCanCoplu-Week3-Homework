@@ -1,0 +1,14 @@
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\bin\Debug\net6.0\RepositoryPatternHW.Domain.deps.json
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\bin\Debug\net6.0\RepositoryPatternHW.Domain.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\bin\Debug\net6.0\ref\RepositoryPatternHW.Domain.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\bin\Debug\net6.0\RepositoryPatternHW.Domain.pdb
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\obj\Debug\net6.0\RepositoryPatternHW.Domain.csproj.AssemblyReference.cache
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\obj\Debug\net6.0\RepositoryPatternHW.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\obj\Debug\net6.0\RepositoryPatternHW.Domain.AssemblyInfoInputs.cache
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\obj\Debug\net6.0\RepositoryPatternHW.Domain.AssemblyInfo.cs
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\obj\Debug\net6.0\RepositoryPatternHW.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\obj\Debug\net6.0\RepositoryPatternHW.Domain.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\obj\Debug\net6.0\ref\RepositoryPatternHW.Domain.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\obj\Debug\net6.0\RepositoryPatternHW.Domain.pdb
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\bin\Debug\net6.0\RepositoryPatternHW.Domain.runtimeconfig.json
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.Domain\obj\Debug\net6.0\RepositoryPatternHW.Domain.genruntimeconfig.cache

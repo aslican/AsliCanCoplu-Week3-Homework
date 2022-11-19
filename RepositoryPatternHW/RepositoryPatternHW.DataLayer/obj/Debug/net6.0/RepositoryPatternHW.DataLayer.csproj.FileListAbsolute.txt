@@ -1,0 +1,17 @@
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\bin\Debug\net6.0\RepositoryPatternHW.DataLayer.deps.json
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\bin\Debug\net6.0\RepositoryPatternHW.DataLayer.runtimeconfig.json
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\bin\Debug\net6.0\RepositoryPatternHW.DataLayer.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\bin\Debug\net6.0\ref\RepositoryPatternHW.DataLayer.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\bin\Debug\net6.0\RepositoryPatternHW.DataLayer.pdb
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\bin\Debug\net6.0\RepositoryPatternHW.Domain.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\bin\Debug\net6.0\RepositoryPatternHW.Domain.pdb
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\obj\Debug\net6.0\RepositoryPatternHW.DataLayer.csproj.AssemblyReference.cache
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\obj\Debug\net6.0\RepositoryPatternHW.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\obj\Debug\net6.0\RepositoryPatternHW.DataLayer.AssemblyInfoInputs.cache
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\obj\Debug\net6.0\RepositoryPatternHW.DataLayer.AssemblyInfo.cs
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\obj\Debug\net6.0\RepositoryPatternHW.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\obj\Debug\net6.0\RepositoryPatternHW.DataLayer.csproj.CopyComplete
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\obj\Debug\net6.0\RepositoryPatternHW.DataLayer.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\obj\Debug\net6.0\ref\RepositoryPatternHW.DataLayer.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\obj\Debug\net6.0\RepositoryPatternHW.DataLayer.pdb
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.DataLayer\obj\Debug\net6.0\RepositoryPatternHW.DataLayer.genruntimeconfig.cache

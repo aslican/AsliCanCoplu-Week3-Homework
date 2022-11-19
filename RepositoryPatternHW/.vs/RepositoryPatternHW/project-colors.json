@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b503d23-3cf2-4dbf-b876-f49293e0dc69": {
+      "ProjectGuid": "0b503d23-3cf2-4dbf-b876-f49293e0dc69",
+      "DisplayName": "RepositoryPatternHW",
+      "ColorIndex": 0
+    },
+    "623e8207-d6b5-4d93-ac97-34c684e76080": {
+      "ProjectGuid": "623e8207-d6b5-4d93-ac97-34c684e76080",
+      "DisplayName": "RepositoryPatternHW.BussinessLayer",
+      "ColorIndex": 1
+    },
+    "888059d4-15c2-42e8-9eba-8a2292f98e55": {
+      "ProjectGuid": "888059d4-15c2-42e8-9eba-8a2292f98e55",
+      "DisplayName": "RepositoryPatternHW.DataLayer",
+      "ColorIndex": 2
+    },
+    "1a91c887-06d1-45ed-b542-8f1c6ac48860": {
+      "ProjectGuid": "1a91c887-06d1-45ed-b542-8f1c6ac48860",
+      "DisplayName": "RepositoryPatternHW.ServiceLayer",
+      "ColorIndex": 3
+    },
+    "d5c011f1-dc21-41ee-8477-ba0903f010fe": {
+      "ProjectGuid": "d5c011f1-dc21-41ee-8477-ba0903f010fe",
+      "DisplayName": "RepositoryPatternHW.API",
+      "ColorIndex": 4
+    },
+    "2086704c-a68a-4e9d-9150-6bab5951ed3f": {
+      "ProjectGuid": "2086704c-a68a-4e9d-9150-6bab5951ed3f",
+      "DisplayName": "RepositoryPatternHW.Domain",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

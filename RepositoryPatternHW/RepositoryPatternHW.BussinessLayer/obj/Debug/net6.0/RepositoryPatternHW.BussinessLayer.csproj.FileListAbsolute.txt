@@ -1,0 +1,14 @@
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\bin\Debug\net6.0\RepositoryPatternHW.BussinessLayer.deps.json
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\bin\Debug\net6.0\RepositoryPatternHW.BussinessLayer.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\bin\Debug\net6.0\ref\RepositoryPatternHW.BussinessLayer.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\bin\Debug\net6.0\RepositoryPatternHW.BussinessLayer.pdb
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\obj\Debug\net6.0\RepositoryPatternHW.BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\obj\Debug\net6.0\RepositoryPatternHW.BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\obj\Debug\net6.0\RepositoryPatternHW.BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\obj\Debug\net6.0\RepositoryPatternHW.BussinessLayer.AssemblyInfo.cs
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\obj\Debug\net6.0\RepositoryPatternHW.BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\obj\Debug\net6.0\RepositoryPatternHW.BussinessLayer.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\obj\Debug\net6.0\ref\RepositoryPatternHW.BussinessLayer.dll
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\obj\Debug\net6.0\RepositoryPatternHW.BussinessLayer.pdb
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\bin\Debug\net6.0\RepositoryPatternHW.BussinessLayer.runtimeconfig.json
+C:\Users\aslic\source\repos\AccHW1\RepositoryPatternHW\RepositoryPatternHW.BussinessLayer\obj\Debug\net6.0\RepositoryPatternHW.BussinessLayer.genruntimeconfig.cache
